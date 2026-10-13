@@ -150,7 +150,3 @@ Frontend changes:
 - Add endpoint-level tests for critical controllers (auth, account list, AI endpoints)
 - Add lint/format scripts and CI checks for both projects
 - Consider response envelope consistency across API endpoints
-
----
-
-If you rename this file later, prefer `AiGuidelines.md` (correct spelling) or `AGENTS.md` for broader tooling compatibility.
